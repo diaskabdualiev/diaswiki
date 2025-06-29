@@ -3,15 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-dias-wiki documentation
+DiasWikiPortfolio
 =======================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
+Это общедоступное портфолио где будут все мои research и проекты которые я вел в течение всей моей карьеры в ней могут быть и мои мысли идеи которые я хотел реализовать но не смог, в ней также будут вестись история моей развития как личносторного и профессионального характера.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Содержание:
+
+   
+
 
